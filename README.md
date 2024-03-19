@@ -13,7 +13,7 @@
 
 # Directory organisation
 
-<p align="justify"><The script which is base of the tool can be found in SCRIPTS. The milestones of the package can be found in LAUNCHPAD./p>
+<p align="justify">The script which is base of the tool can be found in SCRIPTS. The milestones of the package can be found in LAUNCHPAD.</p>
 
 # Tool aspect-ratio on Launchpad 
 
