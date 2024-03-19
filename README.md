@@ -1,6 +1,6 @@
 # README
 
-> [NOTE]
+> [!NOTE]
 > The compilation of the package aspect-ratio is in preparation. When the package is available on Launchpad, the script as well as the package will be published here.
 
 <p align="justify">Especially in photography, it is important to know the aspect ratio of images. It is often desirable to retain the aspect ratio after cropping an image. Some graphic tools allow to keep the aspect ratio while cropping an image other not.</p>
