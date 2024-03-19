@@ -10,3 +10,4 @@
 
 # References
 
+[1].   en.wikipedia.org/wiki/List_of_image_resolutions_used_in_digital_cameras
